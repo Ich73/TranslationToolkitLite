@@ -1,0 +1,16 @@
+*
+!*/
+!Resources/Images/*.ico
+!/.gitignore
+!/LICENSE
+!/README.md
+!/requirements.txt
+!/FileReplacer.py
+!/GameManager.py
+!/SendToCitra.py
+!/SendViaFTP.py
+!/WorkspaceManager.py
+!/ToolManager.py
+!/TranslationPatcher.py
+!/TranslationToolkitLite.py
+!/TranslationToolkitLite.spec
